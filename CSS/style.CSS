@@ -1,0 +1,26 @@
+body{
+
+  background-color: #EAF6F6;
+}
+#profile:hover {
+  background-color: Violet;
+}
+.profile-Name:hover{
+  background-color: LightGray;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+
+
+}
+h1{
+
+   color:MediumSeaGreen;
+}
+
+h3{
+
+   color:MediumSeaGreen;
+}
